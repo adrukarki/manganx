@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<title>STATY CSGO</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<body>
+<style>
+body {
+   background-color: black;
+}
+</style>
+<div class="w3-content w3-display-container">
+  <img class="mySlides" id="mrpio" alt="" src="http://csgo-stats.com/mrpiotrek34/graphic.png" style="width:100%">
+  <img class="mySlides" id="anaya" alt="" src="http://csgo-stats.com/anayashi/graphic.png" style="width:100%">
+  <img class="mySlides" id="xanoxo" alt="" src="http://csgo-stats.com/xanoxo123/graphic.png" style="width:100%">
+  <img class="mySlides" id="zibba" alt="" src="http://csgo-stats.com/76561198289549518/graphic.png" style="width:100%">
+  <img class="mySlides" id="siasiu" alt="" src="http://csgo-stats.com/76561198307187960/graphic.png" style="width:100%">
+
+  <a class="w3-btn-floating w3-display-left" onclick="plusDivs(-1)">&#10094;</a>
+  <a class="w3-btn-floating w3-display-right" onclick="plusDivs(1)">&#10095;</a>
+</div>
+
+<script>
+setInterval(function() {
+    var myImageElement = document.getElementById('mrpio');
+    myImageElement.src = 'http://csgo-stats.com/mrpiotrek34/graphic.png?rand=' + Math.random();
+}, 5000);
+
+setInterval(function() {
+    var myImageElement = document.getElementById('anaya');
+    myImageElement.src = 'http://csgo-stats.com/anayashi/graphic.png?rand=' + Math.random();
+}, 5000);
+
+setInterval(function() {
+    var myImageElement = document.getElementById('xanoxo');
+    myImageElement.src = 'http://csgo-stats.com/xanoxo123/graphic.png?rand=' + Math.random();
+}, 5000);
+
+setInterval(function() {
+    var myImageElement = document.getElementById('zibba');
+    myImageElement.src = 'http://csgo-stats.com/76561198289549518/graphic.png?rand=' + Math.random();
+}, 5000);
+
+setInterval(function() {
+    var myImageElement = document.getElementById('siasiu');
+    myImageElement.src = 'http://csgo-stats.com/76561198307187960/graphic.png?rand=' + Math.random();
+}, 5000);
+</script>
+
+<p><script language="javascript">
+$j(window).load(function () {
+	$j('#comm3_slider').cycle({
+	    fx:     'fade',
+	    speed:  300,
+	    next:   '#comm3_right',
+	    prev:		'#comm3_left',
+	    timeout: 0
+	});
+});
+</script></p>
+  
+
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";  
+  }
+  x[slideIndex-1].style.display = "block";  
+}
+</script>
+
+</body>
+</html>

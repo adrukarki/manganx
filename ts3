@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3mobile.css">
+<title>GRYWAMTU.pl</title>
+<link href="/v/61843153-cd59-41c2-ac6c-75cece9baa89_full.jpg" rel="icon">
+<meta name="theme-color" content="#d6d6d6">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+<script  src="/v/context/js/index.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/v/context/css/style.css">
+<meta http-equiv="refresh"content="0; url=ts3server://178.217.190.181?port=9987">
+<style>
+html, body {margin: 0; height: 100%;}
+body::-webkit-scrollbar {
+    width: 0.4em;
+}
+ 
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: #59bfff;
+  outline: 1px solid slategrey;
+  
+}
+</style>
+<ul class="contextmenu">
+  <li><a style="cursor:pointer" target="_blank" onclick="location.href='ts3server://178.217.190.181?port=9987'">Połącz się z serwerem</a></li>
+  <li><a style="cursor:pointer" onclick="location.href='javascript:window.location.reload();'">Przeladuj</a></li>
+  <li><a style="cursor:pointer; background-color: #545454" onclick="">Anuluj</a></li>
+</ul>
+<body>
+<div id="ts3viewer_1104756" style="width=100%; height=100%; border=0;"> </div>
+
+<script src="https://static.tsviewer.com/short_expire/js/ts3viewer_loader.js"></script>
+<script>
+var ts3v_url_1 = "https://www.tsviewer.com/ts3viewer.php?ID=1104756&text=757575&text_size=12&text_family=1&text_s_color=000000&text_s_weight=normal&text_s_style=normal&text_s_variant=normal&text_s_decoration=none&text_i_color=&text_i_weight=normal&text_i_style=normal&text_i_variant=normal&text_i_decoration=none&text_c_color=&text_c_weight=normal&text_c_style=normal&text_c_variant=normal&text_c_decoration=none&text_u_color=000000&text_u_weight=normal&text_u_style=normal&text_u_variant=normal&text_u_decoration=none&text_s_color_h=&text_s_weight_h=bold&text_s_style_h=normal&text_s_variant_h=normal&text_s_decoration_h=none&text_i_color_h=000000&text_i_weight_h=bold&text_i_style_h=normal&text_i_variant_h=normal&text_i_decoration_h=none&text_c_color_h=&text_c_weight_h=normal&text_c_style_h=normal&text_c_variant_h=normal&text_c_decoration_h=none&text_u_color_h=&text_u_weight_h=bold&text_u_style_h=normal&text_u_variant_h=normal&text_u_decoration_h=none&iconset=default_colored_2014";
+ts3v_display.init(ts3v_url_1, 1104756, 100);
+</script>
+</body>
+</html>

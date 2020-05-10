@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<link href="https://image.flaticon.com/icons/svg/179/179669.svg">
+<link rel="icon" href="/333.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3mobile.css">
+<meta name="theme-color" content="#2e51a2">
+<title>MAL - mcblacky6</title>
+
+<style>
+.iframe1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+</style>
+
+<iframe name="iframe1" id="iframe1" class="iframe1" src="//myanimelist.net/animelist/mcblacky6" 
+        frameborder="0" border="0" cellspacing="0"
+        style="border-style: none;"></iframe>
+
+</html>

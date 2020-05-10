@@ -1,0 +1,25 @@
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico" rel="icon">
+<link href="https://a-v2.sndcdn.com/assets/images/sc-icons/ios-a62dfc8f.png" rel="apple-touch-icon">
+<link href="https://a-v2.sndcdn.com/assets/images/sc-icons/fluid-b4e7a64b.png" rel="fluid-icon">
+<meta name="theme-color" content="#d87e21">
+<style>
+body::-webkit-scrollbar {
+    width: 0.4em;
+}
+ 
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(39,38,63);
+  outline: 1px solid slategrey;
+  
+}
+</style>
+<center><iframe width="49%" height="49%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/115165543&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="49%" height="49%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/303374374&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<iframe width="49%" height="49%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/332439178&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+</html>

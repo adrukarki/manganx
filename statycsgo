@@ -1,0 +1,238 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+<meta property="og:title" content="Statystyki CSGO | a.filery.tk" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://a.filery.tk" />
+<meta property="og:image" content="http://c.wrzuta.pl/wi5526/2f9294a800236c965072c9f6"/>
+<meta property="og:site_name" content="Filery.tk"/>
+<meta property="fbsmileyage_id" content="error-id=kd_5925" />
+<meta property="ogsmileyescription" content="Filery.tk"/>
+<meta property="og:description" content="error id: err_0"/>
+<meta name="keywords" content="error, blad, mrpiotrek34, baza danych, database, data base, word, world, superelitecraft, youopix, gimpson, anayashi, anaya, xanoxo, xanoxo123, siasiu, siasiek, zibba, zibbaxpompa">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body onselectstart="return false" onselect="return false" oncopy="return false">
+</body>
+<body ondragstart="return false" ondrag="return false">
+</body>
+<body onbeforeprint="document.body.style.visibility = 'hidden'; alert('Wydruk jest niedost�pny!')" onafterprint="document.body.style.visibility = 'visible'">
+<meta http-equiv="Imagetoolbar" content="no" />
+<body oncontextmenu="return false">
+</body>
+    </body>
+<style>
+body {
+background-color: #000
+}
+
+* {box-sizing:border-box}
+body {font-family: Verdana,sans-serif;margin:0}
+.mySlides {display:none}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor:pointer;
+  height: 13px;
+  width: 13px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+<body>
+<body onselectstart="return false" onselect="return false" oncopy="return false">
+</body>
+<body ondragstart="return false" ondrag="return false">
+</body>
+<body onbeforeprint="document.body.style.visibility = 'hidden'; alert('~~~')" onafterprint="document.body.style.visibility = 'visible'">
+<meta http-equiv="Imagetoolbar" content="no" />
+<body oncontextmenu="return false">
+</body>
+    </body>
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 5</div>
+  <img id="mrpio" src="http://csgo-stats.com/mrpiotrek34/graphic.png" style="width:100%">
+  <div class="text">MrPiotrek34</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 5</div>
+  <img id="anaya" src="http://csgo-stats.com/anayashi/graphic.png" style="width:100%">
+  <div class="text">AnayaShi</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 5</div>
+  <img id="xanoxo" src="http://csgo-stats.com/xanoxo123/graphic.png" style="width:100%">
+  <div class="text">Xanoxo</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 5</div>
+  <img id="zibba" src="http://csgo-stats.com/76561198289549518/graphic.png" style="width:100%">
+  <div class="text">Zibba</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 5</div>
+  <img id="siasiu" src="http://csgo-stats.com/76561198307187960/graphic.png" style="width:100%">
+  <div class="text">Siasiu</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">❮</a>
+<a class="next" onclick="plusSlides(1)">❯</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span> 
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+<script>
+setInterval(function() {
+    var myImageElement = document.getElementById('mrpio');
+    myImageElement.src = 'http://csgo-stats.com/mrpiotrek34/graphic.png?rand=' + Math.random();
+}, 5000);
+
+setInterval(function() {
+    var myImageElement = document.getElementById('anaya');
+    myImageElement.src = 'http://csgo-stats.com/anayashi/graphic.png?rand=' + Math.random();
+}, 5000);
+
+setInterval(function() {
+    var myImageElement = document.getElementById('xanoxo');
+    myImageElement.src = 'http://csgo-stats.com/xanoxo123/graphic.png?rand=' + Math.random();
+}, 5000);
+
+setInterval(function() {
+    var myImageElement = document.getElementById('zibba');
+    myImageElement.src = 'http://csgo-stats.com/76561198289549518/graphic.png?rand=' + Math.random();
+}, 5000);
+
+setInterval(function() {
+    var myImageElement = document.getElementById('siasiu');
+    myImageElement.src = 'http://csgo-stats.com/76561198307187960/graphic.png?rand=' + Math.random();
+}, 5000);
+</script>
+
+
+</body>
+</body>
+</html> 

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3mobile.css">
+<title>MrPiotrek34 | Social Media</title>
+<link href="/v/61843153-cd59-41c2-ac6c-75cece9baa89_full.jpg" rel="icon">
+<meta name="theme-color" content="#fbff2b">
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+<script  src="/v/context/js/index.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="/v/context/css/style.css">
+<style>
+body, html {
+	background-color: #24273f;
+	background: #24273f;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+.logo {
+   position: static;
+   z-index: 99771;
+   left: 0;
+   top: 0;
+   width: 100%;
+   background-color: #000;
+   color: white;
+   text-align: center;
+}
+body::-webkit-scrollbar {
+    width: 0.4em;
+}
+ 
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: #59bfff;
+  outline: 1px solid slategrey;
+  
+}
+</style>
+<ul class="contextmenu">
+  <li><a style="cursor:pointer" target="_blank" onclick="location.href='//filery.ml/social'">Social Media by MrPiotrek34</a></li>
+  <li><a style="cursor:pointer" onclick="location.href='javascript:window.location.reload();'">Przeladuj</a></li>
+  <li><a style="cursor:default; background-color: #545454" onclick="">Anuluj</a></li>
+</ul>
+<body><center>
+<div class="logo">MrPiotrek34</div><br>
+<a href="https://wzrd.gq/21MUlWL"><img src="/v/youtube.png" alt="YouTube"></a>
+<a href="https://wzrd.gq/1T7bUoc"><img src="/v/facebook-sprite.png" alt="Fanpage"></a>
+<a href="/scloud"><img src="/v/scloud.png" alt="SoundCloud" width="250px" height="250px"></a>
+<a href="https://wzrd.gq/2i6tKeG"><img src="/v/snapcode.png" alt="Snapchat: mrpiotrek34" width="250px" height="250px"></a>
+</body>
+</html>
